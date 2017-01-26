@@ -1,0 +1,27 @@
+.dice-container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    border: 1px solid red;
+    background: #fff;
+}
+
+.dice-text-1 {
+    background: grey;
+    width: 15%;
+    height: 120px;
+
+    p {
+        text-align: center;
+    }
+}
+
+.dice-text-2 {
+    background: grey;
+    width: 15%;
+    height: 120px;
+
+    p {
+        text-align: center;
+    }
+}
